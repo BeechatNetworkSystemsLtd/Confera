@@ -1,3 +1,18 @@
+# Confera
+
+**Confera** is a free, open-source contact collection app designed for trade shows and exhibitions. With Confera, you can easily gather, save, and export attendee contact information offline (as connection may be faulty at trade shows), organized by timestamp for better follow-up and analysis.
+
+## Features
+
+- **Offline Contact Collection**: Collect attendee information with standard contact fields, notes, and an automatic timestamp, even without an internet connection.
+- **Data Export**: Export saved contacts in JSON format, organized by day for easy reference and follow-up.
+- **Cross-Platform**: Built with [React Native](https://reactnative.dev), Confera is compatible with both iOS and Android.
+
+## Future planned features
+- **QR Code Scanning**: Quickly add contacts by scanning attendee QR codes/bar codes.
+- **Share your own contact as a QR code**: Share your contact as a saveable vCard which both Android and iOS natively support.
+- **Export in different formats**: including csv.
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
